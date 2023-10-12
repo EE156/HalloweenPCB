@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HalloweenPCB")(type "KiCad")(uri "${KIPRJMOD}/EE156_HalloweenPCB.kicad_sym")(options "")(descr ""))
+)
